@@ -1888,7 +1888,7 @@ body {
 }
 .cid-rivsRcieyD .main_wrapper {
   position: relative;
-  height: 31rem;
+  height: 29rem;
   width: 100%;
   background-color: #c0c0c0;
 }
@@ -1954,9 +1954,14 @@ body {
     padding: 0;
   }
 }
+.cid-rjTM9pAjao {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/mbr-1920x1559.jpg");
+}
 .cid-rjTE8339al {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-color: #ffffff;
 }
 .cid-rjTE8339al .content-slider {
